@@ -20,4 +20,14 @@ PRIMARY KEY (id) )
 ```
 INSERT INTO accounts (id, username, password, email) VALUES (1, 'test', 'test', 'test@io.com');
 ```
-
+## File Structure
+```
+\-- nodelogin
+    |-- login.html
+    |-- login.ts
+    |-- .env
+    \-- connection
+        |-- connection.ts
+    \-- static
+        |-- style.css
+        ```
