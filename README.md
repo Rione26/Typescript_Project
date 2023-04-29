@@ -30,4 +30,34 @@ INSERT INTO accounts (id, username, password, email) VALUES (1, 'test', 'test', 
         |-- connection.ts
     \-- static
         |-- style.css
-        ```
+```
+        
+        
+ ## Install Modules
+ 
+ * ``` npm i ``` or ``` npm install ```
+ 
+ * ``` npm init ``` package json
+ 
+ * ``` npm install express --save ``` node modules package lock json
+ 
+ npm install dotenv
+ 
+ npx tsc login.ts  login.js 
+ 
+  * ``` npm install pg --save ``` module pg
+ 
+ 
+ npm i --save-dev @types/pg
+ 
+ npm i --save-dev @types/express-session
+ 
+ tsc --init tsconfig.json
+ 
+ 
+ Run code 
+ 
+ 
+ 
+ 
+
