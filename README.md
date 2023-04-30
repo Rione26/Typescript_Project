@@ -53,7 +53,7 @@ INSERT INTO accounts (id, username, password, email) VALUES (1, 'test', 'test', 
 
  * ``` npx tsc login.ts  ```
  
-  ## RUN CODE 
+  ## RUN CODE (CTRL + ALT + N )
   
   
   ## View Website
