@@ -39,23 +39,35 @@ INSERT INTO accounts (id, username, password, email) VALUES (1, 'test', 'test', 
  
  * ``` npm init ``` package json
  
- * ``` npm install express --save ``` node modules package lock json
+ * ``` npm install express --save ``` 
  
- npm install dotenv
+ * ``` npm install dotenv ``` 
+
+ * ``` npm install pg --save ``` 
  
- npx tsc login.ts  login.js 
+ * ``` npm i --save-dev @types/pg ```
  
-  * ``` npm install pg --save ``` module pg
+ * ``` npm i --save-dev @types/express-session ```
  
+ * ``` tsc --init ```
+
+ * ``` npx tsc login.ts  ```
  
- npm i --save-dev @types/pg
+  ## RUN CODE 
+  
+  
+  ## View Website
+  
+``` localhost:3000 ```
+
+or 
+
+``` 127.0.0.1:3000 ```
+
+
+  
+  
  
- npm i --save-dev @types/express-session
- 
- tsc --init tsconfig.json
- 
- 
- Run code 
  
  
  
